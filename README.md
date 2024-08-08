@@ -1,2 +1,2 @@
-# Solo-Project-S2Y1
+# Solo_Project_CS162
 A solo project done by python. Optimization data and improve by algorithms (mainly Dijkstra)
